@@ -10,7 +10,7 @@ body {
     align-items: center; /*inserido*/
     width: 100%; /*inserido*/
     height: 100vh; /*inserido*/ /*deixa o  background na proporção de 100%da tela seja ela qual for*/
-    background-image: url(img/background.png);
+    background-image: url(/img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position: center center; */
